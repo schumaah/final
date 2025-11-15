@@ -1,0 +1,18 @@
+h1 {
+  font-size: 200%;
+}
+
+p {
+  font-size: 130%;
+  padding-top: .5rem;
+}
+
+img {
+  float: right;
+  margin: 0 0 0 1rem;
+}
+
+main {
+  min-height: 300px;
+  padding: 1rem;
+}
