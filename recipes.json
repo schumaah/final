@@ -1,0 +1,193 @@
+[
+  {
+    "id": "creamy-pesto-penne",
+    "title": "Creamy Pesto Penne with Sausage",
+    "image": "images/creamyPestoPenne.webp",
+    "description": "Quick weeknight dinner. Ready in 15 minutes!",
+    "ingredients": [
+      "1 (16 ounce) package penne pasta",
+      "1/2 pound ground sausage",
+      "1 package creamy pesto sauce mix",
+      "1 cup milk",
+      "1/4 cup olive oil"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "Brown sausage in a skillet and add to pasta.",
+      "Whisk pesto mix, milk, and olive oil; simmer until thick.",
+      "Pour sauce over pasta and sausage; toss to coat."
+    ]
+  },
+  {
+    "id": "chicken-alfredo",
+    "title": "Chicken Alfredo",
+    "image": "images/chickenAlfredo.jpg",
+    "description": "Classic creamy Alfredo tossed with tender chicken.",
+    "ingredients": [
+      "8 oz fettuccine",
+      "1 lb chicken breast, sliced",
+      "2 cups heavy cream",
+      "1 cup parmesan cheese",
+      "2 tbsp butter",
+      "2 cloves garlic, minced"
+    ],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Season and sauté chicken until fully cooked.",
+      "Melt butter in a pan and cook garlic.",
+      "Add cream and simmer 3–4 minutes.",
+      "Stir in parmesan until smooth.",
+      "Toss pasta with sauce and chicken."
+    ]
+  },
+  {
+    "id": "honey-garlic-chicken",
+    "title": "Honey Garlic Chicken",
+    "image": "images/honeyGarlicChicken.jpg",
+    "description": "Sweet, savory, sticky chicken perfect over rice.",
+    "ingredients": [
+      "1 lb chicken thighs",
+      "1/4 cup honey",
+      "3 tbsp soy sauce",
+      "3 cloves garlic, minced",
+      "1 tbsp olive oil"
+    ],
+    "instructions": [
+      "Season and sear chicken in oil until browned.",
+      "Mix honey, soy sauce, and garlic.",
+      "Pour sauce over chicken and simmer until thickened.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "id": "beef-tacos",
+    "title": "Easy Beef Tacos",
+    "image": "images/beefTacos.jpg",
+    "description": "Simple, fast tacos perfect for busy nights.",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "8 taco shells",
+      "Shredded lettuce",
+      "Shredded cheese",
+      "Salsa"
+    ],
+    "instructions": [
+      "Brown beef and drain.",
+      "Add taco seasoning + water and simmer.",
+      "Fill taco shells with beef and toppings."
+    ]
+  },
+  {
+    "id": "stir-fry-chicken-vegetables",
+    "title": "Chicken & Veggie Stir Fry",
+    "image": "images/stirFry.jpg",
+    "description": "A healthy stir fry with a simple homemade sauce.",
+    "ingredients": [
+      "1 lb chicken breast, sliced",
+      "2 cups mixed vegetables",
+      "2 tbsp soy sauce",
+      "1 tbsp honey",
+      "1 tsp cornstarch",
+      "1 tbsp oil"
+    ],
+    "instructions": [
+      "Sauté chicken until cooked.",
+      "Add vegetables and stir fry.",
+      "Mix soy sauce, honey, and cornstarch with water.",
+      "Pour sauce into skillet and cook until thickened."
+    ]
+  },
+  {
+    "id": "smashburgers",
+    "title": "Classic Smashburgers",
+    "image": "images/smashburger.jpg",
+    "description": "Crispy-edged burgers made on a hot skillet.",
+    "ingredients": [
+      "1 lb ground beef (80/20)",
+      "4 burger buns",
+      "Sliced cheese",
+      "Salt & pepper",
+      "Pickles"
+    ],
+    "instructions": [
+      "Roll beef into 4 loose balls.",
+      "Heat skillet until very hot.",
+      "Smash beef balls into thin patties.",
+      "Season and cook until crispy, flip, add cheese.",
+      "Assemble on toasted buns with toppings."
+    ]
+  },
+  {
+    "id": "bbq-chicken-pizza",
+    "title": "BBQ Chicken Pizza",
+    "image": "images/bbqChickenPizza.webp",
+    "description": "Sweet BBQ sauce with chicken, red onion, and mozzarella.",
+    "ingredients": [
+      "1 pizza crust",
+      "1 cup cooked chicken, shredded",
+      "1/2 cup BBQ sauce",
+      "1 cup mozzarella cheese",
+      "Red onion slices"
+    ],
+    "instructions": [
+      "Spread BBQ sauce on crust.",
+      "Top with chicken, onion, and cheese.",
+      "Bake at 425°F for 12–15 minutes."
+    ]
+  },
+  {
+    "id": "garlic-butter-shrimp",
+    "title": "Garlic Butter Shrimp",
+    "image": "images/butterShrimp.webp",
+    "description": "Rich garlic butter shrimp ready in under 10 minutes.",
+    "ingredients": [
+      "1 lb shrimp, peeled",
+      "3 tbsp butter",
+      "4 cloves garlic, minced",
+      "1 tbsp lemon juice",
+      "Salt & pepper"
+    ],
+    "instructions": [
+      "Melt butter and sauté garlic.",
+      "Add shrimp and season.",
+      "Cook until pink, then add lemon juice."
+    ]
+  },
+  {
+    "id": "chili",
+    "title": "Hearty Beef Chili",
+    "image": "images/beefChili.jpg",
+    "description": "Simple, flavorful chili perfect for cold nights.",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 can kidney beans",
+      "1 can diced tomatoes",
+      "1 packet chili seasoning",
+      "1 onion, diced"
+    ],
+    "instructions": [
+      "Sauté onion and beef.",
+      "Add beans, tomatoes, and seasoning.",
+      "Simmer 20–30 minutes."
+    ]
+  },
+  {
+    "id": "french-toast",
+    "title": "Classic French Toast",
+    "image": "images/frenchToast.webp",
+    "description": "Golden, fluffy French toast with cinnamon.",
+    "ingredients": [
+      "4 slices bread",
+      "2 eggs",
+      "1/4 cup milk",
+      "1 tsp cinnamon",
+      "Butter for cooking"
+    ],
+    "instructions": [
+      "Whisk eggs, milk, and cinnamon.",
+      "Dip bread and coat both sides.",
+      "Cook in butter until golden brown."
+    ]
+  }
+]

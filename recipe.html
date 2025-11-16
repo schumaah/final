@@ -3,13 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Final Project</title>
-  <link rel="stylesheet" href="reset.css">
-  <link rel="stylesheet" href="styles.css">
-  <script src="recipeBook.js" defer></script>
+  <title>Recipe</title>
+  <link rel="stylesheet" href="\reset.css">
+  <link rel="stylesheet" href="\styles.css">
+  <script src="recipePage.js" defer></script>
 </head>
 <body>
   <div class="wrapper">
+
     <header>
       <h1>Adam's Recipe Book</h1>
       <nav>
@@ -19,16 +20,34 @@
         </ul>
       </nav>
     </header>
+
     <main>
-      <div id="recipeBook">
+      <div class="imageAndTitle">
+        <img id="recipeImage" src="" alt="">
+        <div class="sideBar">
+          <h1 id="recipeTitle"></h1>
+          <p id="recipeDescription"></p>
+        </div>
+      </div>
+
+      <div class="ingredients">
+        <h2>Ingredients</h2>
+        <ul id="ingredientsList"></ul>
+      </div>
+
+      <div class="directions">
+        <h2>Directions</h2>
+        <div id="directionsList"></div>
       </div>
     </main>
+
     <footer>
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
       </ul>
     </footer>
+
   </div>
 </body>
 </html>
