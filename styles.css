@@ -188,6 +188,25 @@ footer a:hover {
   font-size: 1.35em;
 }
 
+.about h1 {
+  font-size: 200%;
+}
+
+.about p {
+  font-size: 130%;
+  padding-top: .5rem;
+}
+
+.about img {
+  float: right;
+  margin: 0 0 0 1rem;
+}
+
+.about main {
+  min-height: 300px;
+  padding: 1rem;
+}
+
 @media screen and (max-width: 500px) {
   .first {
   grid-column: span 1;
