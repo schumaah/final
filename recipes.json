@@ -4,6 +4,7 @@
     "title": "Creamy Pesto Penne with Sausage",
     "image": "images/creamyPestoPenne.webp",
     "description": "Quick weeknight dinner. Ready in 15 minutes!",
+    "difficulty": 2,
     "ingredients": [
       "1 (16 ounce) package penne pasta",
       "1/2 pound ground sausage",
@@ -23,6 +24,7 @@
     "title": "Chicken Alfredo",
     "image": "images/chickenAlfredo.jpg",
     "description": "Classic creamy Alfredo tossed with tender chicken.",
+    "difficulty": 3,
     "ingredients": [
       "8 oz fettuccine",
       "1 lb chicken breast, sliced",
@@ -45,6 +47,7 @@
     "title": "Honey Garlic Chicken",
     "image": "images/honeyGarlicChicken.jpg",
     "description": "Sweet, savory, sticky chicken perfect over rice.",
+    "difficulty": 2,
     "ingredients": [
       "1 lb chicken thighs",
       "1/4 cup honey",
@@ -64,6 +67,7 @@
     "title": "Easy Beef Tacos",
     "image": "images/beefTacos.jpg",
     "description": "Simple, fast tacos perfect for busy nights.",
+    "difficulty": 1,
     "ingredients": [
       "1 lb ground beef",
       "1 packet taco seasoning",
@@ -83,6 +87,7 @@
     "title": "Chicken & Veggie Stir Fry",
     "image": "images/stirFry.jpg",
     "description": "A healthy stir fry with a simple homemade sauce.",
+    "difficulty": 3,
     "ingredients": [
       "1 lb chicken breast, sliced",
       "2 cups mixed vegetables",
@@ -103,6 +108,7 @@
     "title": "Classic Smashburgers",
     "image": "images/smashburger.jpg",
     "description": "Crispy-edged burgers made on a hot skillet.",
+    "difficulty": 2,
     "ingredients": [
       "1 lb ground beef (80/20)",
       "4 burger buns",
@@ -123,6 +129,7 @@
     "title": "BBQ Chicken Pizza",
     "image": "images/bbqChickenPizza.webp",
     "description": "Sweet BBQ sauce with chicken, red onion, and mozzarella.",
+    "difficulty": 3,
     "ingredients": [
       "1 pizza crust",
       "1 cup cooked chicken, shredded",
@@ -141,6 +148,7 @@
     "title": "Garlic Butter Shrimp",
     "image": "images/butterShrimp.webp",
     "description": "Rich garlic butter shrimp ready in under 10 minutes.",
+    "difficulty": 3,
     "ingredients": [
       "1 lb shrimp, peeled",
       "3 tbsp butter",
@@ -159,6 +167,7 @@
     "title": "Hearty Beef Chili",
     "image": "images/beefChili.jpg",
     "description": "Simple, flavorful chili perfect for cold nights.",
+    "difficulty": 3,
     "ingredients": [
       "1 lb ground beef",
       "1 can kidney beans",
@@ -177,6 +186,7 @@
     "title": "Classic French Toast",
     "image": "images/frenchToast.webp",
     "description": "Golden, fluffy French toast with cinnamon.",
+    "difficulty": 1,
     "ingredients": [
       "4 slices bread",
       "2 eggs",
