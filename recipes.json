@@ -7,16 +7,20 @@
     "difficulty": 2,
     "ingredients": [
       "1 (16 ounce) package penne pasta",
-      "1/2 pound ground sausage",
+      "1/2 pound Italian ground sausage",
       "1 package creamy pesto sauce mix",
       "1 cup milk",
-      "1/4 cup olive oil"
+      "1/4 cup olive oil",
+      "1/2 cup reserved pasta water",
+      "Salt and pepper to taste",
+      "Grated parmesan for serving"
     ],
     "instructions": [
-      "Cook pasta according to package instructions.",
-      "Brown sausage in a skillet and add to pasta.",
-      "Whisk pesto mix, milk, and olive oil; simmer until thick.",
-      "Pour sauce over pasta and sausage; toss to coat."
+      "Bring a large pot of salted water to a boil. Cook pasta according to package directions until al dente. Reserve 1/2 cup pasta water, then drain.",
+      "While pasta cooks, heat a skillet over medium-high heat. Add sausage and cook 5–7 minutes, breaking it apart until browned and cooked through.",
+      "In a small saucepan, whisk together the pesto mix, milk, and olive oil. Bring to a gentle simmer, stirring frequently, until slightly thickened (about 3 minutes).",
+      "Add the cooked sausage and drained pasta into the skillet. Pour in the sauce and toss to coat evenly. Add reserved pasta water as needed for creaminess.",
+      "Season with salt and pepper. Serve topped with parmesan."
     ]
   },
   {
@@ -27,19 +31,23 @@
     "difficulty": 3,
     "ingredients": [
       "8 oz fettuccine",
-      "1 lb chicken breast, sliced",
+      "1 lb chicken breast, sliced into strips",
       "2 cups heavy cream",
-      "1 cup parmesan cheese",
+      "1 cup freshly grated parmesan cheese",
       "2 tbsp butter",
-      "2 cloves garlic, minced"
+      "2 cloves garlic, minced",
+      "1 tbsp olive oil",
+      "Salt and pepper",
+      "Parsley for garnish"
     ],
     "instructions": [
-      "Cook pasta until al dente.",
-      "Season and sauté chicken until fully cooked.",
-      "Melt butter in a pan and cook garlic.",
-      "Add cream and simmer 3–4 minutes.",
-      "Stir in parmesan until smooth.",
-      "Toss pasta with sauce and chicken."
+      "Cook fettuccine in salted boiling water until al dente. Reserve 1/4 cup of pasta water.",
+      "Season chicken with salt and pepper. Heat olive oil in a large skillet over medium heat and sauté chicken 6–8 minutes until golden and cooked through. Remove and set aside.",
+      "In the same skillet, melt butter. Add garlic and cook 30–45 seconds until fragrant.",
+      "Pour in heavy cream and bring to a gentle simmer. Cook 3–4 minutes, stirring often, until slightly thickened.",
+      "Add in parmesan cheese and stir until the sauce becomes smooth and creamy. If too thick, thin with reserved pasta water.",
+      "Return chicken to the pan. Add cooked pasta and gently toss to coat.",
+      "Serve hot, topped with parsley."
     ]
   },
   {
@@ -49,17 +57,21 @@
     "description": "Sweet, savory, sticky chicken perfect over rice.",
     "difficulty": 2,
     "ingredients": [
-      "1 lb chicken thighs",
+      "1 lb boneless chicken thighs",
       "1/4 cup honey",
       "3 tbsp soy sauce",
       "3 cloves garlic, minced",
-      "1 tbsp olive oil"
+      "1 tbsp olive oil",
+      "1 tsp cornstarch",
+      "2 tbsp water",
+      "Green onion for garnish"
     ],
     "instructions": [
-      "Season and sear chicken in oil until browned.",
-      "Mix honey, soy sauce, and garlic.",
-      "Pour sauce over chicken and simmer until thickened.",
-      "Serve over rice."
+      "Pat chicken dry and season lightly with salt and pepper.",
+      "Heat olive oil in a skillet over medium-high heat. Sear chicken 5–6 minutes per side until golden and cooked through.",
+      "In a small bowl, mix honey, soy sauce, and garlic. Pour mixture into the skillet and reduce heat to medium.",
+      "Whisk cornstarch with water, then stir into the sauce. Simmer 2–3 minutes until the sauce becomes sticky and coats the chicken.",
+      "Slice chicken and spoon extra sauce over the top. Garnish with green onion and serve with rice."
     ]
   },
   {
@@ -71,15 +83,18 @@
     "ingredients": [
       "1 lb ground beef",
       "1 packet taco seasoning",
+      "1/3 cup water",
       "8 taco shells",
-      "Shredded lettuce",
-      "Shredded cheese",
-      "Salsa"
+      "1 cup shredded lettuce",
+      "1 cup shredded cheese",
+      "Salsa",
+      "Sour cream (optional)"
     ],
     "instructions": [
-      "Brown beef and drain.",
-      "Add taco seasoning + water and simmer.",
-      "Fill taco shells with beef and toppings."
+      "Heat a skillet over medium-high heat. Add ground beef and cook 6–7 minutes, breaking it apart until browned. Drain excess fat.",
+      "Add taco seasoning and water. Stir and simmer 3–4 minutes until thickened.",
+      "Warm taco shells in the oven for 2–3 minutes for extra crunch.",
+      "Fill shells with beef, lettuce, cheese, salsa, and any additional toppings."
     ]
   },
   {
@@ -90,17 +105,20 @@
     "difficulty": 3,
     "ingredients": [
       "1 lb chicken breast, sliced",
-      "2 cups mixed vegetables",
+      "2 cups mixed vegetables (broccoli, carrots, peppers, snap peas)",
       "2 tbsp soy sauce",
       "1 tbsp honey",
       "1 tsp cornstarch",
-      "1 tbsp oil"
+      "1/4 cup water",
+      "1 tbsp oil",
+      "1 tsp sesame oil (optional)"
     ],
     "instructions": [
-      "Sauté chicken until cooked.",
-      "Add vegetables and stir fry.",
-      "Mix soy sauce, honey, and cornstarch with water.",
-      "Pour sauce into skillet and cook until thickened."
+      "Heat oil in a large skillet or wok over medium-high heat. Add chicken and cook 5–6 minutes until lightly browned and cooked through.",
+      "Add vegetables and stir fry 4–5 minutes until crisp-tender.",
+      "In a bowl, whisk soy sauce, honey, cornstarch, and water.",
+      "Pour sauce into skillet. Stir continuously for 1–2 minutes until the sauce thickens and coats the chicken and vegetables.",
+      "Finish with sesame oil if desired. Serve immediately over rice or noodles."
     ]
   },
   {
@@ -112,16 +130,17 @@
     "ingredients": [
       "1 lb ground beef (80/20)",
       "4 burger buns",
-      "Sliced cheese",
-      "Salt & pepper",
-      "Pickles"
+      "4 slices American cheese",
+      "Salt and pepper",
+      "Pickles",
+      "Butter for buns"
     ],
     "instructions": [
-      "Roll beef into 4 loose balls.",
-      "Heat skillet until very hot.",
-      "Smash beef balls into thin patties.",
-      "Season and cook until crispy, flip, add cheese.",
-      "Assemble on toasted buns with toppings."
+      "Divide beef into 4 loose balls without packing tightly.",
+      "Preheat a cast-iron skillet over high heat until extremely hot.",
+      "Place 1 beef ball onto the skillet and immediately smash it flat using a spatula or burger press. Season with salt and pepper.",
+      "Cook 1–2 minutes until edges become crispy. Flip, top with cheese, and cook another minute.",
+      "Toast buns in butter until golden. Assemble burgers with patties and pickles."
     ]
   },
   {
@@ -135,12 +154,15 @@
       "1 cup cooked chicken, shredded",
       "1/2 cup BBQ sauce",
       "1 cup mozzarella cheese",
-      "Red onion slices"
+      "1/4 red onion, thinly sliced",
+      "Fresh cilantro (optional)"
     ],
     "instructions": [
-      "Spread BBQ sauce on crust.",
-      "Top with chicken, onion, and cheese.",
-      "Bake at 425°F for 12–15 minutes."
+      "Preheat oven to 425°F.",
+      "Spread BBQ sauce evenly over the crust.",
+      "Top with shredded chicken, red onion slices, and mozzarella cheese.",
+      "Bake 12–15 minutes until cheese is melted and edges are golden.",
+      "Garnish with cilantro if desired."
     ]
   },
   {
@@ -150,16 +172,18 @@
     "description": "Rich garlic butter shrimp ready in under 10 minutes.",
     "difficulty": 3,
     "ingredients": [
-      "1 lb shrimp, peeled",
+      "1 lb shrimp, peeled and deveined",
       "3 tbsp butter",
       "4 cloves garlic, minced",
       "1 tbsp lemon juice",
-      "Salt & pepper"
+      "Salt and pepper",
+      "Red pepper flakes (optional)"
     ],
     "instructions": [
-      "Melt butter and sauté garlic.",
-      "Add shrimp and season.",
-      "Cook until pink, then add lemon juice."
+      "Melt butter in a skillet over medium heat. Add garlic and cook 30 seconds until fragrant.",
+      "Add shrimp in a single layer. Season with salt, pepper, and red pepper flakes if using.",
+      "Cook 1–2 minutes per side until shrimp turn pink.",
+      "Stir in lemon juice and cook 30 more seconds. Serve immediately over rice or pasta."
     ]
   },
   {
@@ -170,15 +194,19 @@
     "difficulty": 3,
     "ingredients": [
       "1 lb ground beef",
-      "1 can kidney beans",
+      "1 can kidney beans, drained",
       "1 can diced tomatoes",
       "1 packet chili seasoning",
-      "1 onion, diced"
+      "1 onion, diced",
+      "1 cup beef broth",
+      "1 tbsp tomato paste"
     ],
     "instructions": [
-      "Sauté onion and beef.",
-      "Add beans, tomatoes, and seasoning.",
-      "Simmer 20–30 minutes."
+      "Heat a large pot over medium-high heat. Add beef and onion, cooking 6–8 minutes until beef is browned.",
+      "Stir in tomato paste and cook 1 minute.",
+      "Add kidney beans, diced tomatoes, chili seasoning, and beef broth.",
+      "Bring to a simmer and cook 20–30 minutes, stirring occasionally, until thick and flavorful.",
+      "Serve with cheese, sour cream, or crackers."
     ]
   },
   {
@@ -188,16 +216,19 @@
     "description": "Golden, fluffy French toast with cinnamon.",
     "difficulty": 1,
     "ingredients": [
-      "4 slices bread",
+      "4 slices thick bread (brioche recommended)",
       "2 eggs",
       "1/4 cup milk",
       "1 tsp cinnamon",
-      "Butter for cooking"
+      "1/2 tsp vanilla extract",
+      "Butter for cooking",
+      "Maple syrup"
     ],
     "instructions": [
-      "Whisk eggs, milk, and cinnamon.",
-      "Dip bread and coat both sides.",
-      "Cook in butter until golden brown."
+      "In a shallow bowl, whisk eggs, milk, cinnamon, and vanilla until smooth.",
+      "Dip each bread slice into the mixture, allowing it to soak for a few seconds per side.",
+      "Heat butter in a skillet over medium heat. Cook each slice 2–3 minutes per side until golden brown.",
+      "Serve warm with maple syrup."
     ]
   }
 ]

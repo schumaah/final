@@ -7,9 +7,7 @@ function renderDifficultyHats(level) {
     hats += `<span class="${cls}">🔪</span>`;
   }
 
-  return `<div class="difficulty" aria-label="Difficulty: ${level} out of ${max}">
-            ${hats}
-          </div>`;
+  return `<div class="difficulty" aria-label="Difficulty: ${level} out of ${max}"> ${hats} </div>`;
 }
 
 // Get recipe id from URL
@@ -25,6 +23,9 @@ fetch("recipes.json")
       document.querySelector("main").innerHTML = "<h2>Recipe not found.</h2>";
       return;
     }
+
+    // Document Title
+    document.title = recipe.title;
 
     // Image
     const imgEl = document.getElementById("recipeImage");

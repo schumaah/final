@@ -104,6 +104,10 @@ nav ul li a:hover {
 
 main {
   padding: 1.5rem 2rem 2.5rem;
+  background-image: url(images/arb_logo_transparent.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 14%;
 }
 
 #recipeBook {
